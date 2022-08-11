@@ -36,7 +36,7 @@ console.log(Can);
 console.log(Aus);
 
 const countries = [India, UK, USA, Can, Aus]
-console.log(countries);
+console.log(countries);z
 
 for (let i = 0; i < countries.length; i++){
     /* console.log(countries[i].name);*/

@@ -5,3 +5,9 @@ function range(start, end){
 
 }
 range(10,500);
+
+norwich.randomnumber = function(){
+    const upper = 100;
+    const lower = 10;
+    const delta = upper - lower; 
+    return Math.floor(Math.random() * delta) + lower;
